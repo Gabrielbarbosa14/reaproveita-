@@ -1,5 +1,7 @@
 # Reaproveita+
 
+Feito por Gabriel e ione
+
 O Reaproveita+ é uma aplicação web desenvolvida para ajudar estabelecimentos a controlar alimentos próximos do vencimento, reduzir desperdícios e transformar estoques em oportunidades de venda, reserva ou doação.
 
 ## Visão geral do projeto
